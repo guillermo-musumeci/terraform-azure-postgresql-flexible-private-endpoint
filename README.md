@@ -5,7 +5,7 @@
 
 Deploying an Azure Database for PostgreSQL Flexible Server with Private Endpoint using Terraform
 
-Blog --> 
+Blog --> https://gmusumeci.medium.com/how-to-deploy-an-azure-postgresql-flexible-server-with-private-endpoint-using-terraform-d0bebcab69be
 
 ## Code creates:
 
