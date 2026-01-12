@@ -21,8 +21,8 @@ variable "postgres_server_sku" {
 
 variable "postgres_server_version" {
   type        = string
-  description = "PostgreSQL server version (Possible values are 11, 12, 13, 14, 15 and 16)"
-  default     = "16"
+  description = "PostgreSQL server version (Possible values are 11, 12, 13, 14, 15, 16, 17, 18)"
+  default     = "18"
 }
 
 variable "postgres_server_storage_mb" {
@@ -54,4 +54,5 @@ variable "postgres_database_charset" {
   description = "Specifies the charset for the Azure PostgreSQL Flexible Server Database"
   default     = "UTF8"
 }
+
 
